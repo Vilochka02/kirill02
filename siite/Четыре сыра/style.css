@@ -1,0 +1,197 @@
+a{
+	color: #000000;
+	text-decoration: none;
+}
+body{
+	max-width: 1240px;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+.header{
+display: flex;
+justify-content: space-between;
+padding: 10px;
+
+}
+.container{
+	align-items: center;
+	width: 1240px;
+	min-height: 100px;
+	background: #fff;
+	margin: 0 auto;
+	
+}
+
+
+.logo{
+	max-width: 100%;
+	align-items: left;
+	margin-left: 5px;
+	margin-top: 25px;
+}
+
+.htext{
+    margin-left: 200px;
+    margin-top:-90px ;
+    font-family: Segoe UI;
+    color: #000000;
+  
+    font-size:35px;
+    position: absolute;
+}
+.menu{
+	display: flex;
+	float: right;
+	margin-top: -80px;
+	font-size: 30px;
+	margin-right: 10px;
+	
+	
+	
+}
+
+
+.menu4{
+
+}
+
+a:hover {
+   color: #F08080;
+}
+.container1{
+	align-items: center;
+	width: 100%;
+	height: 690px;
+	background: #DCDCDC;
+	margin: 0 auto;
+	}
+.cheese{
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 50px;
+}
+.htext1{
+	position: absolute;
+	width: 100%;
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: Segoe UI;
+    margin-left: 180px;
+}
+
+                 
+.sostav{
+	font-family: Segoe UI;
+    margin-left: 700px;
+    position: absolute;
+    margin-top: 240px;
+    font-size: 25px;
+}
+ 
+	.container2{
+
+	align-items: center;
+	width: 100%;
+	height: 60px;
+	background: #ffffff;
+	margin: 0 auto;
+}
+.htext15{
+   font-family: Segoe UI;
+    color: #000000;
+    width: 100%;
+    font-size:20px;
+    top:5px;
+}
+.htext16{
+    font-family: Segoe UI;
+    color: #000000;
+    width: 100%;
+    font-size:20px;
+    top:20px;
+}
+.inst{
+	width: 100%;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: -35px;
+}
+.vk{
+	width: 100%;
+	position: absolute;
+	margin-left: 565px;
+	margin-top: -40px;
+}
+.youtube{
+	width: 100%;
+	position: absolute;
+	margin-left: 740px;
+	margin-top: -37px;
+}
+.htext19{
+	font-family: Segoe UI;
+	font-size: 14px;
+	width: 100%;
+	position: absolute;
+	margin-left: 430px;
+	margin-top: -33px;
+}
+.htext20{
+	font-family: Segoe UI;
+	font-size: 14px;
+	width: 100%;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: -33px;
+}
+.htext21{
+	font-family: Segoe UI;
+	font-size: 14px;
+	width: 100%;
+	position: absolute;
+	margin-left: 775px;
+	margin-top: -33px;
+}
+.htext22{
+   font-family: Segoe UI;
+    color: #000000;
+    width: 100%;
+    font-size:20px;
+    margin-top: -50px;
+    margin-left:1100px;
+    position: absolute;
+
+}
+.htext23{
+    font-family: Segoe UI;
+    color: #000000;
+    width: 100%;
+    font-size:20px;
+    margin-top:-30px;
+    margin-left:1110px;
+    position: absolute;
+}
+.price{
+	font-family: Segoe UI;
+    left:700px;
+    position: absolute;
+    top: 600px;
+    width: 100%;
+    font-size: 40px;
+}
+.price1{
+	font-family: Segoe UI;
+    left:700px;
+    position: absolute;
+    top: 700px;
+    width: 100%;
+    font-size: 40px;
+}
+.price3{
+	font-family: Segoe UI;
+    left:700px;
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    font-size: 40px;
+}
